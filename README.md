@@ -1,2 +1,4 @@
 # git-clone-test
-A fake repository to demonstrate that a clone has been successful
+
+This is a dummy repository to demonstrate that your git clone command was successful.
+
